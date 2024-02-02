@@ -1,0 +1,19 @@
+.star_pare {
+    background-color: #F0F4FD;
+    padding: 50px;
+    border-radius: 19px;
+    margin-bottom: 20px;
+}
+.star{
+    background-color: #8167E6;
+    margin-bottom: 5px;
+}
+.star_pare h3{
+    color: black;
+}
+.star_pare p{
+    color: black;
+}
+.star_pare span{
+    color: #8167E6;
+}
